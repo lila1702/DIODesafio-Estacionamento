@@ -1,0 +1,14 @@
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\DIOChallenge - Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\DIOChallenge - Estacionamento.AssemblyInfoInputs.cache
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\DIOChallenge - Estacionamento.AssemblyInfo.cs
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\DIOChallenge - Estacionamento.csproj.CoreCompileInputs.cache
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\bin\Debug\net8.0\DIOChallenge - Estacionamento.exe
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\bin\Debug\net8.0\DIOChallenge - Estacionamento.deps.json
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\bin\Debug\net8.0\DIOChallenge - Estacionamento.runtimeconfig.json
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\bin\Debug\net8.0\DIOChallenge - Estacionamento.dll
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\bin\Debug\net8.0\DIOChallenge - Estacionamento.pdb
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\DIOChallenge - Estacionamento.dll
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\refint\DIOChallenge - Estacionamento.dll
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\DIOChallenge - Estacionamento.pdb
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\DIOChallenge - Estacionamento.genruntimeconfig.cache
+D:\MyProjects\Personal\DIO\DIOChallenge - Estacionamento\DIOChallenge - Estacionamento\obj\Debug\net8.0\ref\DIOChallenge - Estacionamento.dll
